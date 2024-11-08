@@ -1,33 +1,86 @@
-﻿#EXTM3U8
-#EXTINF:-1,鳳凰衛視PhoenixTV
-http://192.168.49.88:5000/youtube/HFib76ySpbU
-#EXTINF:-1,華視新聞 CH52
-http://192.168.49.88:5000/youtube/wM0g8EoUZ_E
-#EXTINF:-1,TVBS NEWS
-http://192.168.49.88:5000/youtube/2mCSYvcfhtc
-#EXTINF:-1,TVBS NEWS
-http://192.168.49.88:5000/youtube/m_dhMSvUCIc
-#EXTINF:-1,鏡新聞
-http://192.168.49.88:5000/youtube/5n0y6b0Q25o
-#EXTINF:-1,台視新聞 TTV NEWS
-http://192.168.49.88:5000/youtube/xL0ch83RAK8
-#EXTINF:-1,中視新聞 HD直播頻道｜Taiwan CTV news HD Live
-http://192.168.49.88:5000/youtube/TCnaIE_SAtM
-#EXTINF:-1,公視新聞網
-http://192.168.49.88:5000/youtube/quwqlazU-c8
-#EXTINF:-1,東森新聞 CH51
-http://192.168.49.88:5000/youtube/E0zhe2gkXBs
-#EXTINF:-1,57東森財經新聞
-http://192.168.49.88:5000/youtube/WHEPzbFA3hw
-#EXTINF:-1,寰宇新聞 頻道
-http://192.168.49.88:5000/youtube/6IquAgfvYmc
-#EXTINF:-1,民視新聞網 Formosa TV News network
-http://192.168.49.88:5000/youtube/ylYJSBUgaMA
-#EXTINF:-1,中視經典綜藝
-http://192.168.49.88:5000/youtube/ADDSmXoPDY8
-#EXTINF:-1,TBS NEWS DIG Powered by JNN
-http://192.168.49.88:5000/youtube/ohI356mwBp8
-#EXTINF:-1,ANNnewsCH
-http://192.168.49.88:5000/youtube/coYw-eVU0Ks
-#EXTINF:-1,LIVE NOW
-http://192.168.49.88:5000/youtube/twhG7_jvA8g
+#EXTINF:-1,cctv1-高码
+http://192.168.49.88:35455/ysptp/cctv1.m3u8
+#EXTINF:-1,cctv2-高码
+http://192.168.49.88:35455/ysptp/cctv2.m3u8
+#EXTINF:-1,cctv3-高码
+http://192.168.49.88:35455/ysptp/cctv3.m3u8
+#EXTINF:-1,cctv4-高码
+http://192.168.49.88:35455/ysptp/cctv4.m3u8
+#EXTINF:-1,cctv5-高码
+http://192.168.49.88:35455/ysptp/cctv5.m3u8
+#EXTINF:-1,cctv5p-高码
+http://192.168.49.88:35455/ysptp/cctv5p.m3u8
+#EXTINF:-1,cctv7-高码
+http://192.168.49.88:35455/ysptp/cctv7.m3u8
+#EXTINF:-1,cctv8-高码
+http://192.168.49.88:35455/ysptp/cctv8.m3u8
+#EXTINF:-1,cctv9-高码
+http://192.168.49.88:35455/ysptp/cctv9.m3u8
+#EXTINF:-1,cctv10-高码
+http://192.168.49.88:35455/ysptp/cctv10.m3u8
+#EXTINF:-1,cctv11-高码
+http://192.168.49.88:35455/ysptp/cctv11.m3u8
+#EXTINF:-1,cctv12-高码
+http://192.168.49.88:35455/ysptp/cctv12.m3u8
+#EXTINF:-1,cctv13-高码
+http://192.168.49.88:35455/ysptp/cctv13.m3u8
+#EXTINF:-1,cctv14-高码
+http://192.168.49.88:35455/ysptp/cctv14.m3u8
+#EXTINF:-1,cctv15-高码
+http://192.168.49.88:35455/ysptp/cctv15.m3u8
+#EXTINF:-1,cctv16-高码
+http://192.168.49.88:35455/ysptp/cctv16.m3u8
+#EXTINF:-1,cctv164k_10m
+http://192.168.49.88:35455/ysptp/cctv4k16_10m.m3u8
+#EXTINF:-1,cctv164k
+http://192.168.49.88:35455/ysptp/cctv4k16.m3u8
+#EXTINF:-1,cctv17-高码
+http://192.168.49.88:35455/ysptp/cctv17.m3u8
+#EXTINF:-1,cgtnar-高码
+http://192.168.49.88:35455/ysptp/cgtnar.m3u8
+#EXTINF:-1,cgtndoc-高码
+http://192.168.49.88:35455/ysptp/cgtndoc.m3u8
+#EXTINF:-1,cgtnen-高码
+http://192.168.49.88:35455/ysptp/cgtnen.m3u8
+#EXTINF:-1,cgtnfr-高码
+http://192.168.49.88:35455/ysptp/cgtnfr.m3u8
+#EXTINF:-1,cgtnru-高码
+http://192.168.49.88:35455/ysptp/cgtnru.m3u8
+#EXTINF:-1,cgtnsp-高码
+http://192.168.49.88:35455/ysptp/cgtnsp.m3u8
+#EXTINF:-1,cctv4k_10m
+http://192.168.49.88:35455/ysptp/cctv4k_10m.m3u8
+#EXTINF:-1,cctv4k
+http://192.168.49.88:35455/ysptp/cctv4k.m3u8
+#EXTINF:-1,cctv8k_36m
+http://192.168.49.88:35455/ysptp/cctv8k_36m.m3u8
+#EXTINF:-1,咪咕4K-1
+http://192.168.49.88:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+#EXTINF:-1,咪咕4K-2
+http://192.168.49.88:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+#EXTINF:-1,Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1,咪咕视频_8M1080_咪视通-1
+http://192.168.49.88:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+#EXTINF:-1,咪咕视频_8M1080_咪视通-2
+http://192.168.49.88:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+#EXTINF:-1,咪咕视频_8M1080_咪视通-3
+http://192.168.49.88:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+#EXTINF:-1,咪咕视频_8M1080_咪视通-4
+http://192.168.49.88:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+#EXTINF:-1,咪咕视频_8M1080_咪视通-5
+http://192.168.49.88:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+#EXTINF:-1,咪咕视频_8M1080_咪视通-6
+http://192.168.49.88:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+#EXTINF:-1,咪咕视频_8M1080_咪视通-7
+http://192.168.49.88:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+#EXTINF:-1,咪咕视频_8M1080_咪视通-8
+http://192.168.49.88:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+#EXTINF:-1,咪咕视频_8M1080_咪视通-9
+http://192.168.49.88:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+#EXTINF:-1,咪咕视频_8M1080_咪视通-10
+http://192.168.49.88:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+#EXTINF:-1,咪咕视频_8M1080_咪视通-11
+http://192.168.49.88:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
